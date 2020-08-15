@@ -1,0 +1,18 @@
+tr,
+td {
+  border: 1px solid;
+}
+table {
+  border-collapse: collapse;
+}
+.left-information {
+  padding-left: 5px;
+}
+.right-information {
+  text-align: center;
+}
+.middle-information {
+  text-align: right;
+  padding-right: 5px;
+  width: 30%;
+}
