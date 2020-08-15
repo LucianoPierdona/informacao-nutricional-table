@@ -1,3 +1,4 @@
+/* table styling */
 tr,
 td {
   border: 1px solid;
@@ -5,6 +6,8 @@ td {
 table {
   border-collapse: collapse;
 }
+
+/* columns styling */
 .left-information {
   padding-left: 5px;
 }
